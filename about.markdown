@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Prashanth Sadasivan is an Application Developer with 2.5+ years of experience in the IT industry.
+His skills include web development in Java and Javascript. Reach out to him at prashanthrama1000(at)gmail(dot)com.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can also reach him at
+[LinkedIn](https://linkedin.com/in/prashanth-sadasivan) /
+[Facebook](https://facebook.com/prashsadasivan)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can see his projects at GitHub:
+[GitHub](https://github.com/prashanthrama1000)
