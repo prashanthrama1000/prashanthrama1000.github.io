@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: An Aspiring Software Developer
+subtitle: A Determined Software Developer
 ---
 
 <img src="/author.jpg"
