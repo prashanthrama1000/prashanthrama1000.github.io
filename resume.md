@@ -15,23 +15,28 @@ subtitle: Prashanth Sadasivan
 ### Experience  
 
 #### Oracle
-###### Applications Developer | Bangalore, India | July 2018 – Sept 2021
-- Designed and implemented RESTful Web Services for enterprise applications. Used Java, Spring MVC, Docker, JSP and Hibernate.
-- Implemented JUnits and Integration tests for automating the test cases as well as reducing the manual
-testing effort. Used Java, Mockito and Spring MVC Testing Framework.
-- Designed and implemented a Data-Deletion service for cleaning out data within multiple services. Used
-Java, Spring Boot, Gradle, Docker and Shell Scripting.
-- Refactoring of Database Schemas for improving the lookup time and performance of Business entities.
+###### Applications Engineer | Bangalore, India | April 2021 – Sept 2021
+- Designed and implemented an data-aggregation micro-service for application enhancement. Used Java,
+Spring MVC, EclipseLink, Docker and Kubernetes
+- Designed and implemented data-deletion services for cleaning up data within multiple functional services.
+Used Java, Spring Boot, Gradle, Docker and Shell Scripting.
+- Implemented JUnits and integration tests for automating the test cases in turn reducing the manual testing
+effort. Used Java, Mockito and Spring MVC Testing Framework.
+
+#### Oracle
+###### Applications Developer | Bangalore, India | July 2018 – March 2021
+- Designed and implemented RESTful web services for enterprise-grade applications. Used Java, Spring
+MVC, Docker, JSP and Hibernate.
+- Refactoring of database schemas for improving the lookup time and performance of business entities.
 - Configured the build and dependency management using Maven, Gradle, NPM and Continuous Integration
 using Jenkins.
 
 #### Oracle
 ###### Project Intern | Bangalore, India | Jan 2018 – June 2018
-- Designed and implemented the MVC design pattern for scaling the application. Used Java, JSP, JavaScript,
-Spring Web (for RESTful services) and Hibernate for implementation.
-- Implemented RESTful APIs with Jersey and Jackson for serialization for
-application enhancement.
-- Configuring Maven and Ant for build automation and for resolving dependencies.
+- Designed and implemented the MVC design pattern for scaling enterprise-grade applications. Used Java,
+JSP, JavaScript, Spring Web (for RESTful services) and Hibernate for implementation.
+- Implemented RESTful APIs using Jersey and Jackson(for serialization) as part of application enhancement.
+- Configuring Maven and Ant for build automation and for resolving dependencies.s.
 
 #### Languages and Technologies
 - Programming Languages: Java, JSP, JavaScript, C++, HTML, CSS, SQL, Shell Scripting
