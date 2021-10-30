@@ -16,7 +16,7 @@ subtitle: Prashanth Sadasivan
 
 #### Walmart Global Tech India
 ###### Software Engineer III | Bangalore, India | Sept 2021 – Present
-
+<br/>
 #### Oracle
 ###### Applications Engineer | Bangalore, India | April 2021 – Sept 2021
 - Designed and implemented an data-aggregation micro-service for application enhancement. Used Java,
