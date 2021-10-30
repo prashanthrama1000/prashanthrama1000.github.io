@@ -15,7 +15,7 @@ subtitle: A Determined Software Developer
 
 ### Bio
 
-Prashanth Sadasivan is an Application Developer with 2.5+ years of experience in the IT industry.
+Prashanth Sadasivan is an Software Engineer 3 with 3+ years of experience in the IT industry. He is currently working at Walmart Global Tech India.
 His skills include web development with Java and Javascript. Reach out to him at prashanthrama1000(at)gmail(dot)com.
 
 ### Reach out at
