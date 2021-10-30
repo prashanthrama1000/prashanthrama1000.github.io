@@ -14,8 +14,8 @@ subtitle: Prashanth Sadasivan
 
 ### Experience  
 
-#### Oracle Corporation
-###### Applications Developer | Bangalore, India | July 2018 – Present
+#### Oracle
+###### Applications Developer | Bangalore, India | July 2018 – Sept 2021
 - Designed and implemented RESTful Web Services for enterprise applications. Used Java, Spring MVC, Docker, JSP and Hibernate.
 - Implemented JUnits and Integration tests for automating the test cases as well as reducing the manual
 testing effort. Used Java, Mockito and Spring MVC Testing Framework.
@@ -25,7 +25,7 @@ Java, Spring Boot, Gradle, Docker and Shell Scripting.
 - Configured the build and dependency management using Maven, Gradle, NPM and Continuous Integration
 using Jenkins.
 
-#### Oracle Corporation
+#### Oracle
 ###### Project Intern | Bangalore, India | Jan 2018 – June 2018
 - Designed and implemented the MVC design pattern for scaling the application. Used Java, JSP, JavaScript,
 Spring Web (for RESTful services) and Hibernate for implementation.
@@ -38,7 +38,7 @@ application enhancement.
 - Technologies and Frameworks: Spring Web MVC, Jersey (For RESTful Services), Jackson, Spring Boot
 and Spring Data, Hibernate, Docker, Consul, Kafka and Zookeeper, Puppet
 - Dependency Management: Maven, NPM, Gradle, Ant
-- Version Control System: Git (Advanced Proficiency)
+- Version Control System: Git
 - Continuous Integration: Jenkins, Travis CI
 - Tools: IntelliJ IDEA, Eclipse IDE (for Java EE), Linux Terminal Proficiency, Oracle SQL Developer,
 WebStorm
