@@ -27,6 +27,10 @@ My expertise includes:
 
 - Experience in designing distributed micro-services w.r.t industry standards. Practical understanding of GoF design patterns, used for developing maintainable solutions.
 
+- Designing low-latency services leveraging asynchronous event based communication using Kafka.
+
+- Experience in packaging services as Docker containers and deploying them in Kubernetes cluster for reliability.
+
 ### Reach out at
 
 [LinkedIn](https://linkedin.com/in/prashanth-sadasivan) /
