@@ -31,9 +31,13 @@ My expertise includes:
 
 - Experience in packaging services as Docker containers and deploying them in Kubernetes cluster for reliability.
 
+- Experience in JavaScript(ES6), JSP, HTML and CSS for designing responsive front-end.
+
+- Tools such as Maven, Ant and Gradle for automation of tasks and for resolving dependencies. Jenkins job configuration for building and deployment of enterprise applications. Version control systems such as Git for collaboration.
+
 ### Reach out at
 
 [LinkedIn](https://linkedin.com/in/prashanth-sadasivan) /
 [Facebook](https://facebook.com/prashsadasivan)
 
-You can see his projects at [GitHub](https://github.com/prashanthrama1000)
+You can see my projects at [GitHub](https://github.com/prashanthrama1000)
