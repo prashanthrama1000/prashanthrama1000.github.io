@@ -23,6 +23,10 @@ My expertise includes:
 
 - Java is a really powerful language from the perspective of a back-end developer. My expertise in Java includes the core concepts and enterprise frameworks such as Spring and Jersey for building RESTful applications, JPAs including EclipseLink and Hibernate for persistent database operations. Jackson for serialization.
 
+- Good experience in writing unit tests with JUnits and Mockito. Writing tests for API endpoints using Karate BDD testing framework.
+
+- Experience in designing distributed micro-services w.r.t industry standards. Practical understanding of GoF design patterns, used for developing maintainable solutions.
+
 ### Reach out at
 
 [LinkedIn](https://linkedin.com/in/prashanth-sadasivan) /
